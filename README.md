@@ -1,4 +1,4 @@
-<img src="logo.svg" width="200px" style="float: right" />
+<img src="logo.svg" width="200px" align="right" />
 
 # Running Humio on Nomad
 
