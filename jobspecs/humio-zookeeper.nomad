@@ -1,3 +1,5 @@
+# Note. This jobspect does not create Zookeeper myid files. Make sure those exist on your hosts!
+
 job "humio-zookeeper" {
   type        = "service"
   datacenters = ["DCE"]
